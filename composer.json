@@ -1,0 +1,9 @@
+{
+    "name": "dzhemile-dzh/mr-data-converter",
+    "description": "Your project description",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "thdoan/mr-data-converter": "^2.3"
+    }
+}
