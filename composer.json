@@ -4,6 +4,6 @@
     "type": "project",
     "minimum-stability": "stable",
     "require": {
-        "thdoan/mr-data-converter": "dev-master"
+        "dzhemile-dzh/mr-data-converter": "dev-gh-pages"
     }
 }
