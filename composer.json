@@ -2,7 +2,7 @@
     "name": "dzhemile/mr-data-converter",
     "description": "Your project description",
     "type": "project",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "dzhemile/mr-data-converter": "dev-gh-pages"
     }
