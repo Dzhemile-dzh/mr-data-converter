@@ -4,6 +4,6 @@
     "type": "project",
     "minimum-stability": "stable",
     "require": {
-        "thdoan/mr-data-converter": "^2.3"
+        "thdoan/mr-data-converter": "dev-master"
     }
 }
