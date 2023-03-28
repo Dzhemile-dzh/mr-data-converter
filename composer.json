@@ -1,9 +1,9 @@
 {
-    "name": "dzhemile-dzh/mr-data-converter",
+    "name": "dzhemile/mr-data-converter",
     "description": "Your project description",
     "type": "project",
     "minimum-stability": "stable",
     "require": {
-        "dzhemile-dzh/mr-data-converter": "dev-gh-pages"
+        "dzhemile/mr-data-converter": "dev-gh-pages"
     }
 }
